@@ -6,6 +6,7 @@ module.exports = function(environment) {
     environment,
     rootURL: '/',
     locationType: 'auto',
+
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
@@ -20,6 +21,21 @@ module.exports = function(environment) {
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
+    },
+
+    blog: {
+      title: 'weevil news',
+      description: 'The News Of New Hanover',
+      coverImage: '/images/blog-cover.jpg',
+
+      navigation: [{
+        label: 'Home',
+        route: 'index'
+      }, {
+        label: 'Built by Mortimer Rivers',
+        route: 'page',
+        id: 'mortimer-rivers'
+      }]
     }
   };
 
