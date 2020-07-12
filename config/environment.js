@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'weevil news',
-      description: 'The News Of New Hanover County',
+      description: 'Feeding The Budding Reader',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
