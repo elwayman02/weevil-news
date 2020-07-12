@@ -47,6 +47,7 @@ Articles will be sorted in the order they were created, with the most recent lis
 simply edit the `date` field in each article so that they display in the desired order.
 
 Once changes have been merged to the master branch, they will automatically build and release to the live website.
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
