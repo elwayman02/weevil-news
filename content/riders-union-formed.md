@@ -26,5 +26,6 @@ is time for us to stand up and organize our labor together, for the betterment o
 
 The Riders Union plans to recruit members in all districts and will eventually select a 
 Union Boss to manage operations in each district as the organization expands. Inquire with 
-Mortimer Rivers in Valentine for more information about joining the Union!
+Mortimer Rivers in Valentine for more information about joining the Union. The Riders Union 
+is here to help, "Riding You To Success!"
 
