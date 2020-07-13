@@ -14,11 +14,11 @@ tags:
 
 A revolution in transportation is sweeping New Alexandria as two entrepreneurs 
 joined forces to create Mortabello's, The Portable Fellows! Co-Founders Mortimer Rivers 
-and Goey Portabello have combined their business ventures to provide superior service 
+and Joey Portabello have combined their business ventures to provide superior service 
 for their customers.
 
 Prior to founding this new business, Mortimer Rivers was the proprietor of Parcel Express, 
-a competitor of Portabello Portables. After realizing the improvements that could be made by 
+once a competitor of Portabello Portables by Joey Portabello. After realizing the improvements that could be made by 
 working together, the two businessmen have decided to work together on this new venture. 
 They will also be hiring more employees in the near future to increase their availability 
 for potential customers. They will be operating offices out of Valentine (the old Freight Station) 
