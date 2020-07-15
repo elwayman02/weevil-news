@@ -23,6 +23,10 @@ other than to journey back to British lands. She has made plans to embark post-h
 arranging passage on the next reasonably accommodating passenger vessel out of 
 Saint Denis.
 
+Upon arriving back in England, Lady Violet plans to attend many of the extravegant 
+balls that had been put on hold pending her return. She looks forward to reuniting with 
+her social circle which has been bereft of her presence these last few weeks.
+
 She has found her time here quite educational, if not always enjoyable; a truly 
 enlightening experience to be sure. Lady Violet wishes well her many friends and 
 acquaintances here in America, as there are surely many left behind who will mourn 
