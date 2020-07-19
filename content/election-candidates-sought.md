@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors: 
   - mortimer-rivers
-date: Wed Jul 15 2020 15:19:33 GMT-0700 (Pacific Daylight Time)
+date: Sat Jul 18 2020 15:19:33 GMT-0700 (Pacific Daylight Time)
 tags:
   - issue-2
 ---

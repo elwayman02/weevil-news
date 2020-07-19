@@ -7,13 +7,13 @@ imageMeta:
 featured: true
 authors: 
   - mortimer-rivers
-date: Mon Jul 13 2020 17:44:20 GMT-0700 (Pacific Daylight Time)
+date: Sun Jul 19 2020 17:44:20 GMT-0700 (Pacific Daylight Time)
 tags:
   - issue-2
 ---
 
 After spending two wonderful weeks visiting her cousins in New Alexandria, 
-Lady Violet Davies has announced her plans to return to her lovely home in England. 
+Lady Violet Davies has announced plans to return to her lovely home in England. 
 While she would have been delighted to extend her stay, it has come to the Dowager 
 Countess' attention that the many boards she sits on at home are in desperate 
 need of her attendance.
