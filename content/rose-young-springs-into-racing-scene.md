@@ -17,11 +17,17 @@ Such is the case with Mrs. Rose Young and her white arabian, Light Fury. Speakin
 to her moments before the Flat Iron Lake 500 on Saturday, Weevil News learned that 
 she recently entered the racing scene to satisfy her horse's desire to run and compete.
 
-Placing second in her very first race this Wednesday at the Van Horn 400, Mrs. Young 
-told us that she's not in it for the money despite the big prize she earned, which will 
-go toward treats for her horse. She doesn't even think of other racers as competitors, 
-but just blocks them out and focuses on letting Light Fury run the track. To Rose, 
-it's all about letting her horse have fun with each race.
+After competing in her very first race this Wednesday at the Van Horn 400, Mrs. Young 
+told us that she's not in it for the money, which will always go toward treats for 
+her horse. She doesn't even think of other racers as competitors,  but just blocks 
+them out and focuses on letting Light Fury run the track. To Rose, it's all about 
+letting her horse have fun with each race.
+
+For Wednesday's race, Light Fury flagged in the middle of the race after a strong early 
+showing, but she didn't give up. Finding a second wind, the horse surged late in the race 
+to the surprise of onlookers. Thanks to this valiant effort from her mount, Mrs. Young 
+was able to pass one of the state's deputies for a solid second place finish, cementing 
+her as one of the sport's new favorites.
 
 Speaking about the upcoming race, we learned a bit about Rose's strategy. As an avid 
 hunter alongside her husband, Matthew Young, Rose is used to handling her horse on 
