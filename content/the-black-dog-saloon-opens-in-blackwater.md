@@ -29,7 +29,8 @@ business with respect for all peoples in and around Blackwater.
 The Black Dog comes with all sorts of amenities, including a bath and room for rent upstairs. The 
 upper floor also holds a fine blackjack table, giving tale to many great events to come. They 
 are working on a number of ideas to bring the community together, including inviting political 
-figures to come down and speak to the people of Blackwater.
+figures to come down and speak to the people of Blackwater. The saloon tends to operate in District 1, 
+but they will be open in other Districts as well from time to time.
 
 The Black Dog Saloon is currently hiring for a number of positions, including an accountant, barkeepers, 
 musicians, security, and card dealers. They're also looking for an artist to design posters 
