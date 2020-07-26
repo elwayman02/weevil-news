@@ -1,5 +1,5 @@
 ---
-title: Election Conspiracy To Disqualify Lockheart
+title: Blood in the Mud 3 - The Champion Reigns Again
 image:
 imageMeta:
   attribution:
@@ -7,7 +7,7 @@ imageMeta:
 featured: true
 authors: 
   - mortimer-rivers
-date: Fri Jul 24 2020 13:16:19 GMT-0700 (Pacific Daylight Time)
+date: Sat Jul 25 2020 13:49:20 GMT-0700 (Pacific Daylight Time)
 tags:
   - issue-3
 ---
