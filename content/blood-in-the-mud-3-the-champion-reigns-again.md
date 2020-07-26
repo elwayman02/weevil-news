@@ -29,7 +29,7 @@ of her opponent. One of the most exciting fights of the first round was Red "The
 Jasper "The Brown Beaver". These two giants of the ring went at it for a long bout, with the fight 
 swinging both ways until The Brown Beaver finally landed a cross to take the win.
 
-State Representative candidate Ada Lockwood faced a giant Otto in the next match, taking advantage of 
+State Representative candidate Ada Lockwood faced a giant Odd in the next match, taking advantage of 
 his height to slip under his defense and deliver a number of crushing blows to his chin until he went 
 down in a splash of mud. The final fight of the first round was the grudge match between Jericho and 
 Namerson, an intense faceoff that saw Mr. Baker emerge victorious in vengeance for the previous outcome.
