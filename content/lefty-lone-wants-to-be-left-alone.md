@@ -1,5 +1,5 @@
 ---
-title: Lefty Lone Wants To Be Left Alone
+title: Lefty Lone Wants To Be Left Alone, Rumors Say
 image:
 imageMeta:
   attribution:

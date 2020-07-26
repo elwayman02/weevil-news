@@ -1,6 +1,6 @@
 ---
 name: 3
-image: DATE PUBLISHED
+image: Sunday, July 25th, 1899
 imageMeta: Valentine, NH
 ---
 A description for the Issue 2 tag. If you delete this line it will say
