@@ -46,9 +46,9 @@ Winnie herself with the words "Who the fuck are you?" Taken aback, she responded
 Lockheart, currently running for Governor." Apparently realizing he'd crossed a line, Governor Devine
 quickly holstered his gun and everyone was able to leave the jail without bloodshed.
 
-This entire exchange was witnessed by five members of law enforcement, four of whom have been named 
+This entire exchange was witnessed by five members of law enforcement, several of whom have been named 
 in a lawsuit against the Governor filed on Saturday by Miss Lockheart's legal representative, Joshua 
-JD Holliday. These individuals were Deputy Jackie Saber, Deputy Joda, Deputy Erickson, and Recruit 
+JD Holliday. These individuals included Deputy Jackie Saber, Deputy Jodah Erickson, and Recruit 
 Deputy Jessica Darsen.
 
 Weevil News spoke with Winifred Lockheart after the incident and asked her to comment on how she 
