@@ -5623,10 +5623,10 @@ emojis-list@^3.0.0:
   resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-3.0.0.tgz#5570662046ad29e2e916e71aae260abdff4f6a78"
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
-empress-blog-vintage-news-template@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/empress-blog-vintage-news-template/-/empress-blog-vintage-news-template-0.3.2.tgz#75b8f2853b1f672179a301751693d6babe8b3e89"
-  integrity sha512-Vu0I+34qV7mzFu2UfFBMuIX+j85r9OR9ykx28Ci5+hPIbzdXf6dsVdfk4M3tqsqgLybIjmEqz+oMKANlVcfAxw==
+empress-blog-vintage-news-template@^0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/empress-blog-vintage-news-template/-/empress-blog-vintage-news-template-0.3.3.tgz#46aec48dd7b6faeea5aec60f3c94d41ab482f063"
+  integrity sha512-eWQ85O8DCzS8ENiiU5StnnIuCOyZVC3XdKAz6RKlGNUm30pQh4Hgn7oKuSM5Ce379+UNXSRgwXNkCC5rAeJa8Q==
   dependencies:
     ember-cli-babel "^7.22.1"
     ember-cli-htmlbars "^5.2.0"
