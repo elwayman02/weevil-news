@@ -82,7 +82,8 @@ Miss Winnie believes that a governor should meet regularly with their legislator
 to sign bills into law the same day they are passed by the legislature. The more efficiently the 
 government moves to enact laws that have been agreed upon, the sooner its citizens can benefit 
 from the work their elected representatives are doing. The government should stand united together, 
-working for the people. 
+working for the people. To that end, she endorses Ada Lockwood and Henry Clerk for state 
+representative in this election.
 
 Winifred's heart lies with the people. It always has, and it always will. She looks at the people 
 around her and seeks to treat them with the same respect she wishes to receive. She believes all 
