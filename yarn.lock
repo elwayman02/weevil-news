@@ -4863,7 +4863,7 @@ ember-cli-babel@^6.0.0-beta.4, ember-cli-babel@^6.11.0, ember-cli-babel@^6.12.0,
     ember-cli-version-checker "^2.1.2"
     semver "^5.5.0"
 
-ember-cli-babel@^7.0.0, ember-cli-babel@^7.1.0, ember-cli-babel@^7.1.2, ember-cli-babel@^7.11.0, ember-cli-babel@^7.11.1, ember-cli-babel@^7.12.0, ember-cli-babel@^7.13.2, ember-cli-babel@^7.18.0, ember-cli-babel@^7.19.0, ember-cli-babel@^7.20.5, ember-cli-babel@^7.22.1, ember-cli-babel@^7.4.1, ember-cli-babel@^7.7.3:
+ember-cli-babel@^7.0.0, ember-cli-babel@^7.1.0, ember-cli-babel@^7.1.2, ember-cli-babel@^7.11.0, ember-cli-babel@^7.11.1, ember-cli-babel@^7.12.0, ember-cli-babel@^7.13.2, ember-cli-babel@^7.18.0, ember-cli-babel@^7.19.0, ember-cli-babel@^7.22.1, ember-cli-babel@^7.4.1, ember-cli-babel@^7.7.3:
   version "7.22.1"
   resolved "https://registry.yarnpkg.com/ember-cli-babel/-/ember-cli-babel-7.22.1.tgz#cad28b89cf0e184c93b863d09bc5ba4ce1d2e453"
   integrity sha512-kCT8WbC1AYFtyOpU23ESm22a+gL6fWv8Nzwe8QFQ5u0piJzM9MEudfbjADEaoyKTrjMQTDsrWwEf3yjggDsOng==
@@ -5593,12 +5593,12 @@ emojis-list@^3.0.0:
   resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-3.0.0.tgz#5570662046ad29e2e916e71aae260abdff4f6a78"
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
-empress-blog-vintage-news-template@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/empress-blog-vintage-news-template/-/empress-blog-vintage-news-template-0.0.3.tgz#5ce1461b8b51113aa790827c3d13c379a7c99d8c"
-  integrity sha512-Tw+pT1Hcm/Cn8g3SNKvQNxt8nq9BevwM5PUcGfirHfYgO10/BU+mjGLz4NAczUFDClrA98E2L3Clw1zhKchufg==
+empress-blog-vintage-news-template@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/empress-blog-vintage-news-template/-/empress-blog-vintage-news-template-0.1.0.tgz#596c27886916e499d67967d1966a2b073c8910c5"
+  integrity sha512-ulIx6dOepDPP6tk45JANO8e47HK32s1ExFpSBLbLDhDrh2dUZ8+F7R+k2SbosG/TXuBIlXWz1Q16bw15GUvf3A==
   dependencies:
-    ember-cli-babel "^7.20.5"
+    ember-cli-babel "^7.22.1"
     ember-cli-htmlbars "^5.2.0"
     ember-composable-helpers "^4.2.2"
     ember-moment "^8.0.0"
