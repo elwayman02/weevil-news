@@ -43,7 +43,7 @@ once! That's right, I double up on those bottoms, but I ain't playing with 'em l
 toys.
 
 I just want 'em real thick and juicy, so if you find a couple juicy bottoms Mortimer's in trouble. I 
-will literally beg you for a pieces, especially if there a nice crispy bubble in the skin. Sometimes, 
+will literally beg you for a piece, especially if there's a nice crispy bubble in the skin. Sometimes, 
 I look at round rocks and think I see juicy bottoms just knocking around the ground, but you can 
 have those fake mirages, because I keep to the real, flowing juices of Lemoyne Chicken Company.
 
