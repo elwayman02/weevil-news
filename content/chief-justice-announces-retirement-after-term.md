@@ -12,7 +12,7 @@ tags:
   - issue-6
 ---
 
-In an interview exclusive with Weevil News, Chief Justice James Tully has announced his intention to 
+In an exclusive interview with Weevil News, Chief Justice James Tully has announced his intention to 
 retire when his current term ends on September 1st of this year. When the two newest judges were 
 elected recently, he informed the state representatives of his impending retirement. An official 
 state announcement from the Governor is expected near the end of the month, with a specific date for 
