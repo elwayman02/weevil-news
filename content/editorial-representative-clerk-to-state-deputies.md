@@ -1,5 +1,5 @@
 ---
-title: Editorial - Representative Clerk To State Deputies
+title: Editorial - Henry Clerk Writes To State Deputies
 image:
 imageMeta:
   attribution:
