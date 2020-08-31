@@ -4972,7 +4972,7 @@ ember-cli-htmlbars@^3.0.1:
     json-stable-stringify "^1.0.1"
     strip-bom "^3.0.0"
 
-ember-cli-htmlbars@^5.2.0, ember-cli-htmlbars@^5.3.1:
+ember-cli-htmlbars@^5.3.1:
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/ember-cli-htmlbars/-/ember-cli-htmlbars-5.3.1.tgz#61793964fc2599ce750db9e972ab55c6dd177c48"
   integrity sha512-ZjQTt44euDoqLvUkWbt1svgNCXgLzOztEbc2qqYMQvhQig416LMrWK7l3SSbNU+BtLD5UIxmwvLfF1tsO2CVyA==
@@ -5450,7 +5450,7 @@ ember-modifier-manager-polyfill@^1.2.0:
     ember-cli-version-checker "^2.1.2"
     ember-compatibility-helpers "^1.2.0"
 
-ember-modifier@^2.0.1:
+ember-modifier@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/ember-modifier/-/ember-modifier-2.1.0.tgz#99d85995caad8789220dc3208fb5ded45647dccf"
   integrity sha512-tVmRcEloYg8AZHheEMhBhzX64r7n6AFLXG69L/jiHePvQzet9mjV18YiIPStQf+fdjTAO25S6yzNPDP3zQjWtQ==
@@ -5618,15 +5618,15 @@ emojis-list@^3.0.0:
   resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-3.0.0.tgz#5570662046ad29e2e916e71aae260abdff4f6a78"
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
-empress-blog-vintage-news-template@^0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/empress-blog-vintage-news-template/-/empress-blog-vintage-news-template-0.3.3.tgz#46aec48dd7b6faeea5aec60f3c94d41ab482f063"
-  integrity sha512-eWQ85O8DCzS8ENiiU5StnnIuCOyZVC3XdKAz6RKlGNUm30pQh4Hgn7oKuSM5Ce379+UNXSRgwXNkCC5rAeJa8Q==
+empress-blog-vintage-news-template@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/empress-blog-vintage-news-template/-/empress-blog-vintage-news-template-0.4.0.tgz#1e2edf890e23a8d0ca39641844acb7b0737ad99e"
+  integrity sha512-3PPh/xSND+sMZidgl0rkddT5FynjjndRKXFsLnr1bAcdF/cbvQvnFmv9/dBSXNs6dKL9/5tzvdJZjnO2c1pdEA==
   dependencies:
     ember-cli-babel "^7.22.1"
-    ember-cli-htmlbars "^5.2.0"
+    ember-cli-htmlbars "^5.3.1"
     ember-composable-helpers "^4.2.2"
-    ember-modifier "^2.0.1"
+    ember-modifier "^2.1.0"
     ember-moment "^8.0.0"
 
 empress-blog@^1.9.0:
